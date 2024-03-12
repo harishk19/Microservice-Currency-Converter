@@ -12,6 +12,7 @@ This project demonstrates a microservice architecture using Spring Boot, where w
 ## Technologies
 
 - Spring Boot
+- H2 Database
 - Spring Cloud Config
 - Spring Cloud Netflix Eureka
 - Spring Cloud Gateway
